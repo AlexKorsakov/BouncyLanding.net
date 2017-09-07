@@ -1,5 +1,6 @@
 <?
 
 echo "Start!";
+echo "End!";
 
 ?>
