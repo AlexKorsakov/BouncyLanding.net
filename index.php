@@ -1,6 +1,0 @@
-<?
-
-echo "Start!";
-echo "End!";
-
-?>
