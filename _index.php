@@ -1,0 +1,7 @@
+<?
+
+echo "Start!";
+echo "End!";
+
+
+?>
